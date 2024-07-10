@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.yvansmiths34.monProjet"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3ef96fc6-d3a9-40f2-9790-2ca6f3e09dc4"
+      }
+    },
+    "owner": "yvansmiths34"
   }
 }
